@@ -301,7 +301,7 @@ print("decrypted string: ", decMessage)
 ```
 ## OUTPUT:
 
-![Screenshot (16)](https://github.com/Jothish741/19CS412---CRYPTOGRAPHY---ADVANCED-ENCRYPTION/assets/127813293/4c88e64f-16a5-4236-886d-8eae3f9227ab)
+![Screenshot (43)](https://github.com/RamprabhuRajavelu/19CS412---CRYPTOGRAPHY---ADVANCED-ENCRYPTION/assets/120629062/d0d07bdd-c662-43e5-81dc-0494b1c62e43)
 
 
 
