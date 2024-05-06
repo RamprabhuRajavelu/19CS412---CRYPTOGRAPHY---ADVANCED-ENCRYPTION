@@ -1,3 +1,6 @@
+## EX.NO:
+## DATE:
+
  ## IMPLEMENTATION OF RSA
  # AIM :
  To write a C program to implement the RSA encryption algorithm.
@@ -84,7 +87,8 @@ return 0;
 }
 ```
 ## OUTPUT:
-![Screenshot 2024-03-05 113517](https://github.com/AlluguriSrikrishnateja/19CS412---CRYPTOGRAPHY---ADVANCED-ENCRYPTION/assets/118343892/b96f8704-db74-4fb0-835d-078d58644625)
+![new1](https://github.com/RICHARDKALVIN/19CS412---CRYPTOGRAPHY---ADVANCED-ENCRYPTION/assets/119404920/4107a230-45a6-4d39-9f27-324372d87330)
+
 
 
 ## RESULT :
@@ -92,6 +96,8 @@ return 0;
 Thus the C program to implement RSA encryption technique had been
 implemented successfully
 
+## EX.NO:
+## DATE:
 ## IMPLEMENTATION OF AES
 ## AIM:
 To use Advanced Encryption Standard (AES) Algorithm for a practical
@@ -169,8 +175,10 @@ Encrypted URL : vibpFJW6Cvs5Y+L7t4N6YWWe07+JzS1d3CU2h3mEvEg=
 Decrypted URL : www.annauniv.edu
 
 ## RESULT:
+Thus the program had been implemented successfully
 
-
+## EX.NO:
+## DATE:
 
 ## IMPLEMENTATION OF DIFFIE HELLMAN KEY EXCHANGE ALGORITHM
 
@@ -242,7 +250,8 @@ return 0;
 ```
 ## OUTPUT:
 
-<img width="342" alt="image" src="https://github.com/AlluguriSrikrishnateja/19CS412---CRYPTOGRAPHY---ADVANCED-ENCRYPTION/assets/118343892/a3f5b0fa-ef81-4215-9521-2a16c87cef68">
+![new2](https://github.com/RICHARDKALVIN/19CS412---CRYPTOGRAPHY---ADVANCED-ENCRYPTION/assets/119404920/81fa6d25-e3dc-4ed8-aaf4-af649b04e2f8)
+
 
 
 ## RESULT: 
@@ -253,6 +262,8 @@ implemented using C.
 
 
 
+## EX.NO:
+## DATE:
 
 ## IMPLEMENTATION OF DES ALGORITHM
 
@@ -290,7 +301,9 @@ print("decrypted string: ", decMessage)
 ```
 ## OUTPUT:
 
-<img width="756" alt="image" src="https://github.com/AlluguriSrikrishnateja/19CS412---CRYPTOGRAPHY---ADVANCED-ENCRYPTION/assets/118343892/23e74c08-7cea-4381-b9fe-97e247b17470">
+![Screenshot (16)](https://github.com/Jothish741/19CS412---CRYPTOGRAPHY---ADVANCED-ENCRYPTION/assets/127813293/4c88e64f-16a5-4236-886d-8eae3f9227ab)
+
+
 
 ## RESULT:
 
